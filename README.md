@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Farhana Ahmmed Ellie</h1>
 <h3 align="center">A Computer Science Engineering Graduate from Bangladesh 🇧🇩</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ellie49&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <b>About Me: </b><br>
 -  I'm a **Front-end Web Developer** and **Competitive Programmer**.
 -  I'm a knowledge seeker, and I love to learn new 💻 **technologies**.
@@ -29,9 +33,6 @@
 
 **✅ Version Control:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git, GitHub
-
-
-![Profile views](https://komarev.com/ghpvc/?username=Ellie49&label=Profile%20views&color=0e75b6&style=flat)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellie49&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
