@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Farhana Ahmmed Ellie</h1>
+<h3 align="center">A Computer Science Engineering Graduate from Bangladesh 🇧🇩</h3>
 
-<!--
-**Ellie49/Ellie49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>About Me: </b><br>
+- 🔭 I'm a **Front end Web Developer** and **Competitive Programmer**.
+- 🎓 I'm a knowledge seeker, and I love to learn new 💻 **technologies**.
+- 🌱 I’m currently learning **Machine Learning**
+- 💬 Ask me about **React, Javascript,**
+- ⚡ Fun fact : I'm a night owl.
+- 📫 How to reach me **[farhanaahmmed49@gmail.com](farhanaahmmed49@gmail.com)**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/farhana-ahmmed-b886a71ba/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgGLYdqVv4KgzIn09KUvHNMohUTnSZFbtu8Q&s" height="30" width="40" /></a>
