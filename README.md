@@ -1,6 +1,6 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ellie49.Ellie49)
 <h1 align="center">Hi 👋, I'm Farhana Ahmmed Ellie</h1>
 <h3 align="center">A Computer Science Engineering Graduate from Bangladesh 🇧🇩</h3>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ellie49.Ellie49)
 
 <b>About Me: </b><br>
 -  I'm a **Front-end Web Developer** and **Competitive Programmer**.
