@@ -14,6 +14,23 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/farhana-ahmmed-b886a71ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
+## 💻 Tech Stack:
+**✅ Programming Languages:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C, C++, Python, JavaScript
+
+**✅ Front-end Development:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS3, ReactJS
+
+**✅ Database Technologies:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL
+
+**✅ Machine Learning:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook, Grad-CAM, LIME
+
+**✅ Version Control:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git, GitHub
+
+
 ![Profile views](https://komarev.com/ghpvc/?username=Ellie49&label=Profile%20views&color=0e75b6&style=flat)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellie49&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
