@@ -16,4 +16,4 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ellie49&label=Profile%20views&color=0e75b6&style=flat)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellie49&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellie49&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
