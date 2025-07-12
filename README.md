@@ -1,6 +1,6 @@
-![Profile views](https://komarev.com/ghpvc/?username=Ellie49&label=Profile%20views&color=0e75b6&style=flat)
 <h1 align="center">Hi 👋, I'm Farhana Ahmmed Ellie</h1>
 <h3 align="center">A Computer Science Engineering Graduate from Bangladesh 🇧🇩</h3>
+![Profile views](https://komarev.com/ghpvc/?username=Ellie49&label=Profile%20views&color=0e75b6&style=flat)
 
 <b>About Me: </b><br>
 -  I'm a **Front-end Web Developer** and **Competitive Programmer**.
