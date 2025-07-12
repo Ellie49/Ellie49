@@ -6,7 +6,7 @@
 -  I'm a knowledge seeker, and I love to learn new 💻 **technologies**.
 -  I’m currently working on **Machine Learning** and **Artificial Intelligence**
 -  Excited to dive into software engineering, blending it with ML and AI.
--  Ask me about **Python, React, Javascript,**
+-  Ask me about **React, Javascript, Python**
 -  Fun fact : I'm a night owl.
 -  How to reach me **[farhanaahmmed49@gmail.com](farhanaahmmed49@gmail.com)**
 
