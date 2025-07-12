@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farhana Ahmmed Ellie</h1>
+<h1 align="center">Hi 👋, This is Farhana Ahmmed Ellie</h1>
 <h3 align="center">A Computer Science Engineering Graduate from Bangladesh 🇧🇩</h3>
 
 <p align="center">
