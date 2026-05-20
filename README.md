@@ -34,5 +34,5 @@
 **✅ Version Control:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git, GitHub
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellie49&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellie49&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
