@@ -34,5 +34,19 @@
 **✅ Version Control:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git, GitHub
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellie49&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub
+
+<div align="center">
+
+<a href="https://github.com/Ellie49">
+  <img height="165" src="https://github-readme-stats-murex-two-94.vercel.app/api?username=Ellie49&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Ellie49">
+  <img height="165" src="https://github-readme-stats-murex-two-94.vercel.app/api/top-langs/?username=Ellie49&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mariyasf&theme=tokyonight&hide_border=true" alt="Streak"/>
+
+</div>
 
