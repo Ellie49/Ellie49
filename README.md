@@ -106,3 +106,67 @@ Research Assistant (Intern) | Artificial Intelligence & Machine Learning Researc
 </a>
 
 </p>
+---
+
+# 🎯 Current Research Focus
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Explainable Artificial Intelligence (XAI)
+- Natural Language Processing
+- Large Language Models (LLMs)
+
+---
+
+# 🏆 Competitive Programming
+
+- Solved **900+** problems across Codeforces, AtCoder, CodeChef, UVA, and other online judges.
+- Participated in **150+** online programming contests.
+- Qualified for the **ICPC Asia Dhaka Regional Site Online Preliminary Contest** (2021, 2022, 2023).
+- Participated in National Girls' Programming contests.
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ellie49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellie49&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ellie49&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Open to Collaborate
+
+I am always interested in collaborating on research projects related to:
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Explainable AI (XAI)
+- Medical Image Analysis
+- Natural Language Processing
+
+Feel free to reach out if you are interested in research collaboration or academic discussions.
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
