@@ -16,10 +16,7 @@ Research Assistant (Intern) | Artificial Intelligence & Machine Learning Researc
 
 - 🎓 **B.Sc. in Computer Science & Engineering** from **International Islamic University Chittagong (IIUC)**.
 - 🔬 **Research Assistant (Intern)** at the **Center for Artificial Intelligence and Robotics (CAIR), Southeast University**.
-- 📖 First author of an **IEEE Conference Publication (ECCE 2025)**.
-- 📝 Co-author of a **submitted manuscript to Scientific Data**.
-- 💡 Passionate about developing trustworthy and explainable Artificial Intelligence systems.
-- 🌱 Currently working on **Artificial Intelligence, Machine Learning, Computer Vision, Explainable AI (XAI), and Large Language Models (LLMs).**
+-  Currently working on **Artificial Intelligence, Machine Learning, Computer Vision, Explainable AI (XAI), and Large Language Models (LLMs).**
 
 ---
 
@@ -35,29 +32,6 @@ Research Assistant (Intern) | Artificial Intelligence & Machine Learning Researc
 
 ---
 
-## 📚 Publications
-
-### 📄 Conference Publication
-
-**An Improved Hybrid Deep Learning Approach with Explainable AI for COVID-19 Detection**
-
-- 🏛 **2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)**
-- 📍 CUET, Bangladesh
-- 👤 First Author
-- 📚 Publisher: IEEE
-- 🔗 https://doi.org/10.1109/ECCE64574.2025.11013503
-
----
-
-### 📝 Submitted Manuscript
-
-**A Real-World Multiclass Image Dataset for Bangladeshi Pulse Crop Detection Using Deep Learning**
-
-- 📖 Journal: Scientific Data
-- 👤 Fourth Author
-- ⏳ Status: Submitted
-
----
 
 ## 💻 Technical Skills
 
@@ -107,26 +81,6 @@ Research Assistant (Intern) | Artificial Intelligence & Machine Learning Researc
 
 </p>
 ---
-
-# 🎯 Current Research Focus
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Explainable Artificial Intelligence (XAI)
-- Natural Language Processing
-- Large Language Models (LLMs)
-
----
-
-# 🏆 Competitive Programming
-
-- Solved **900+** problems across Codeforces, AtCoder, CodeChef, UVA, and other online judges.
-- Participated in **150+** online programming contests.
-- Qualified for the **ICPC Asia Dhaka Regional Site Online Preliminary Contest** (2021, 2022, 2023).
-- Participated in National Girls' Programming contests.
-
 ---
 
 # 📈 GitHub Statistics
@@ -147,26 +101,3 @@ Research Assistant (Intern) | Artificial Intelligence & Machine Learning Researc
 
 </p>
 
----
-
-# 🤝 Open to Collaborate
-
-I am always interested in collaborating on research projects related to:
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Explainable AI (XAI)
-- Medical Image Analysis
-- Natural Language Processing
-
-Feel free to reach out if you are interested in research collaboration or academic discussions.
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
